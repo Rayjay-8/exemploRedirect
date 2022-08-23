@@ -1,2 +1,1 @@
-"# exemploRedirect" 
-"# exemploRedirect" 
+# Exemplo de redirecionamento após o login
